@@ -3,7 +3,5 @@ module helloworld
 go 1.13
 
 require (
-    flagstone
+    github.com/C8E/flagstone
 )
-
-replace flagstone => ../../flagstone
