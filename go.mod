@@ -1,4 +1,4 @@
-module flagstone
+module github.com/C8E/flagstone
 
 go 1.13
 
