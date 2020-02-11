@@ -1,4 +1,4 @@
-package github.com/C8E/flagstone
+package flagstone
 
 import (
 	"crypto/rand"
